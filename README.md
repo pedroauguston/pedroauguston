@@ -1,7 +1,5 @@
 ## Olá, me chamo Pedro Augusto
 
----
-
 <div align="left">
 <p>Meu nome é Pedro Augusto, tenho 20 anos e atualmente estou cursando engenharia de software na ULBRA. Tenho experiência com HTML, CSS e JavaScript, o que me permite desenvolver aplicações web. Atualmente, estou focado em estudar o ecossistema do JavaScript, com ênfase especial no framework React.
 </div>
@@ -35,4 +33,5 @@
   <img   height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroauguston&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github"/>
   <img  align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroauguston&layout=compact&langs_count=16&theme=radical"/>
 </div>
+
 ![Snake animation](https://github.com/pedroauguston/pedroauguston/blob/output/github-contribution-grid-snake.svg)
